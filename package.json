@@ -1,0 +1,10 @@
+{
+  "name": "ton-design-system",
+  "version": "0.1.0",
+  "description": "Design system and UI toolkit for building complex frontend applications, wallets, explorers, and developer tools.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
