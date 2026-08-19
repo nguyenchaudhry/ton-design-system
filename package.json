@@ -1,6 +1,6 @@
 {
   "name": "ton-design-system",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Design system and UI toolkit for building complex frontend applications, wallets, explorers, and developer tools.",
   "main": "src/index.ts",
   "scripts": {
